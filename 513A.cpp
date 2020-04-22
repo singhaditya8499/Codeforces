@@ -1,0 +1,14 @@
+#include<iostream>
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+ int n,m,a,b;
+ cin>>n>>m>>a>>b;
+ if(n>m)
+  cout<<"First";
+ else
+  cout<<"Second";
+ return 0;
+}
+ 
